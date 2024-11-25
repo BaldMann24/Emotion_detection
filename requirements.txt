@@ -1,7 +1,4 @@
 pyserial
-time
-csv
-datetime
 scipy
 numpy==1.21.5
 tensorflow==2.10.0
