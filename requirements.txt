@@ -1,7 +1,7 @@
 pyserial==3.5
 scipy==1.14.0
-numpy==1.21.5
-tensorflow==2.10.0
-pandas==1.4.4
-streamlit==1.39.0
-scikit-learn==1.0.2
+numpy==1.26.4
+tensorflow==2.18.0
+pandas==2.2.2
+streamlit==1.40.0
+scikit-learn==1.5.1
